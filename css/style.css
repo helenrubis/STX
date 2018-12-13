@@ -1,0 +1,186 @@
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+.home {
+  background-color:#F5F5F5;
+  margin:0px;
+  padding:0px;
+}
+
+.head {
+  display: flex;
+  flex-wrap:row wrap;
+  margin:auto;
+  text-align:center;
+  color:black;
+  font-family: roboto;
+  background-image: url(photositeweb/banner2.png);
+  height: 100vh;
+
+}
+
+
+h1 { 
+color: black; 
+font-weight: strong; 
+text-decoration: bold; 
+width:100px; 
+background-color:#DCDCDC; 
+margin:auto; 
+font-family: roboto;
+} 
+
+
+h2 { 
+color: black; 
+font-weight: strong; 
+text-decoration: bold;   
+margin:auto;
+font-family: arial;
+}
+
+h3 { 
+color: black; 
+font-weight: strong; 
+text-decoration: bold;   
+margin:auto;
+font-family: Caveat Brush;
+
+} 
+
+.cont { 
+color: black; 
+font-weight: strong; 
+text-decoration: bold;   
+margin:auto;
+font-family: Caveat Brush;
+} 
+
+form { 
+color: Orange; 
+font-weight: strong; 
+text-decoration: bold;  
+background-color:#F5F5F5; 
+margin:auto; 
+} 
+
+
+.collapse {
+ padding:20px;
+ margin:50px;
+ list-style-type:none;
+ color:#F5F5F5;
+
+
+ }
+
+.menu-item {
+ margin-left:150px;
+ float:left;
+ /*pour IE*/
+ }
+.collapse .menu-item a {
+ display:block;
+ float:left;   
+ width:100px;
+ background-color:#F5F5F5;
+ color:black;
+ text-decoration:none;
+ text-align:center;
+ padding:10px;
+ border:2px solid;
+ /*pour avoir un effet "outset" avec IE :*/
+ border-color:black;
+ }
+
+.collapse .menu-item a:hover {
+ background-color:white;
+ border-color:black;
+ color:black;
+ }
+.search-field {
+ background-color:white;
+ border-color:orange 10pm;
+ color:black;
+ }
+.search-submit {
+ background-color:white;
+ border-color:black 10pm;
+ color:black;
+ }
+
+.cont {
+  display: flex;
+  flex-wrap:row wrap;
+  margin:auto;
+  text-align:center;
+}
+
+.image {
+  margin:10px;
+} 
+
+
+.cont div:nth-child(1), div:nth-child(6) {
+}
+
+.cont div:nth-child(2), div:nth-child(7) {
+}
+
+.cont div:nth-child(3), div:nth-child(8) {
+}
+
+
+
+p {
+  color:black;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+
+}
+
+.copy div {
+  float:left;
+}
+
+
+.logostx {
+z-index: -3;
+}
+
+.my-menu {
+	z-index: 1000;
+	margin-top: -350px; 
+
+}
+
+#menu-navigation-haute {
+	list-style: none;
+}
+
+.my-flex-box {
+	 display:flex;
+	 justify-content: space-around;
+	 width: 100vw;
+	 padding: 50px;
+
+
+}
+
+
+
+
+
+
+
+
